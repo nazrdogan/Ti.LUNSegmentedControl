@@ -1,0 +1,12 @@
+PODS:
+  - LUNSegmentedControl (1.0.7)
+
+DEPENDENCIES:
+  - LUNSegmentedControl
+
+SPEC CHECKSUMS:
+  LUNSegmentedControl: f868b1ea740f9917f05dbcb4cded85c33ec606e6
+
+PODFILE CHECKSUM: 9f5ccd49db2559da26fdb3c6a25ee8b1f54cb430
+
+COCOAPODS: 1.3.1

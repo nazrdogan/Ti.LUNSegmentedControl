@@ -1,0 +1,5 @@
+<Alloy>
+	<Window class="container">
+		<View backgroundColor="transparent" id="test" height="300" width="300"></View>
+	</Window>
+</Alloy>

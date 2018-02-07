@@ -1,0 +1,509 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		187411BF5497D9B8797BDC5C1B7818D2 /* Pods-Ti.LUNSegmentedControl-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 0C3838A6F9852C757B11266867EA7559 /* Pods-Ti.LUNSegmentedControl-dummy.m */; };
+		1883734510BCB1BC80568813D5481C94 /* UIView+LUNRemoveConstraints.h in Headers */ = {isa = PBXBuildFile; fileRef = 4FAE0CF964DF8A0A3FB592911968BAD2 /* UIView+LUNRemoveConstraints.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		2FA6077A840971984CA87B06427D4232 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */; };
+		362A27CE9459C374D074A251C0F6AB53 /* LUNGradientView.m in Sources */ = {isa = PBXBuildFile; fileRef = AEE857840EA4F1B8FAF5CD58B3EFB687 /* LUNGradientView.m */; };
+		6C34DD087E1897AF3C63F5BAFBA38C83 /* LUNSegmentedControl-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 8062A4288A6F9DD01B74560D42259D82 /* LUNSegmentedControl-dummy.m */; };
+		727D593ABA61A587D46D2AAFE194E5D5 /* UIView+LUNRemoveConstraints.m in Sources */ = {isa = PBXBuildFile; fileRef = D30AE86CF8D59E387143ADACFB61EA7E /* UIView+LUNRemoveConstraints.m */; };
+		973B6A4A80EBCA12ED32123FB54A1F3A /* LUNSegmentedControl.m in Sources */ = {isa = PBXBuildFile; fileRef = 85B24586E8575D6309071CE64D3CD588 /* LUNSegmentedControl.m */; };
+		A9B12DE585CDE9DE7FADEAA163FEA7D8 /* LUNGradientView.h in Headers */ = {isa = PBXBuildFile; fileRef = 4DCC370ABCE6874CB289D03E7A7E4160 /* LUNGradientView.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		BAABDBF279432B89C401E1367D9572A2 /* LUNSegmentedControl.h in Headers */ = {isa = PBXBuildFile; fileRef = E2F6C7E6EF706B3C9161D208769BB3FD /* LUNSegmentedControl.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		F4EBF69969CEDBC90780432FD8F04E91 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		17B26D76A93195DE716E6815D1077DFC /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = F86465360FAD19E91A242877566513C0;
+			remoteInfo = LUNSegmentedControl;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		0C30E2C8F7AC64E6B19D28830481FC81 /* libPods-Ti.LUNSegmentedControl.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = "libPods-Ti.LUNSegmentedControl.a"; path = "libPods-Ti.LUNSegmentedControl.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		0C3838A6F9852C757B11266867EA7559 /* Pods-Ti.LUNSegmentedControl-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-Ti.LUNSegmentedControl-dummy.m"; sourceTree = "<group>"; };
+		131D18FF5F5973184D5F617758EF4388 /* Pods-Ti.LUNSegmentedControl.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Ti.LUNSegmentedControl.debug.xcconfig"; sourceTree = "<group>"; };
+		3686200C4E44745F7BCB1E3624DA2250 /* Pods-Ti.LUNSegmentedControl-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-Ti.LUNSegmentedControl-acknowledgements.plist"; sourceTree = "<group>"; };
+		4DCC370ABCE6874CB289D03E7A7E4160 /* LUNGradientView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = LUNGradientView.h; path = LUNSegmentedControl/LUNSegmentedControl/LUNSegmentedControl/LUNGradientView.h; sourceTree = "<group>"; };
+		4FAE0CF964DF8A0A3FB592911968BAD2 /* UIView+LUNRemoveConstraints.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIView+LUNRemoveConstraints.h"; path = "LUNSegmentedControl/LUNSegmentedControl/LUNSegmentedControl/UIView+LUNRemoveConstraints.h"; sourceTree = "<group>"; };
+		595E3F554AEB05E2657449B0D2AC8B7B /* LUNSegmentedControl.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = LUNSegmentedControl.xcconfig; sourceTree = "<group>"; };
+		5AFE5614C8095840851566A9A2666574 /* Pods-Ti.LUNSegmentedControl-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-Ti.LUNSegmentedControl-frameworks.sh"; sourceTree = "<group>"; };
+		6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
+		6CAA52385B36B3D1A6C127FCA2FBE955 /* libLUNSegmentedControl.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = libLUNSegmentedControl.a; path = libLUNSegmentedControl.a; sourceTree = BUILT_PRODUCTS_DIR; };
+		74871842BADFBCF715D5E01C84B28F22 /* Pods-Ti.LUNSegmentedControl.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Ti.LUNSegmentedControl.release.xcconfig"; sourceTree = "<group>"; };
+		7DED3F5B882C64FFCC0D3C79641187BE /* Pods-Ti.LUNSegmentedControl-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-Ti.LUNSegmentedControl-resources.sh"; sourceTree = "<group>"; };
+		8062A4288A6F9DD01B74560D42259D82 /* LUNSegmentedControl-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "LUNSegmentedControl-dummy.m"; sourceTree = "<group>"; };
+		85B24586E8575D6309071CE64D3CD588 /* LUNSegmentedControl.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = LUNSegmentedControl.m; path = LUNSegmentedControl/LUNSegmentedControl/LUNSegmentedControl/LUNSegmentedControl.m; sourceTree = "<group>"; };
+		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		97541420A69206923BF03DAFE90452D1 /* Pods-Ti.LUNSegmentedControl-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-Ti.LUNSegmentedControl-acknowledgements.markdown"; sourceTree = "<group>"; };
+		AEE857840EA4F1B8FAF5CD58B3EFB687 /* LUNGradientView.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = LUNGradientView.m; path = LUNSegmentedControl/LUNSegmentedControl/LUNSegmentedControl/LUNGradientView.m; sourceTree = "<group>"; };
+		D30AE86CF8D59E387143ADACFB61EA7E /* UIView+LUNRemoveConstraints.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIView+LUNRemoveConstraints.m"; path = "LUNSegmentedControl/LUNSegmentedControl/LUNSegmentedControl/UIView+LUNRemoveConstraints.m"; sourceTree = "<group>"; };
+		E2F6C7E6EF706B3C9161D208769BB3FD /* LUNSegmentedControl.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = LUNSegmentedControl.h; path = LUNSegmentedControl/LUNSegmentedControl/LUNSegmentedControl/LUNSegmentedControl.h; sourceTree = "<group>"; };
+		F5BC1C2814AF40A718C1E6FA3CEDB7B0 /* LUNSegmentedControl-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "LUNSegmentedControl-prefix.pch"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		15D7039117183C67163F6774717CF8DC /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2FA6077A840971984CA87B06427D4232 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2791270D242224231896AE8281DF78AE /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F4EBF69969CEDBC90780432FD8F04E91 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		633C71104F01A5968F28171438C58B24 /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				595E3F554AEB05E2657449B0D2AC8B7B /* LUNSegmentedControl.xcconfig */,
+				8062A4288A6F9DD01B74560D42259D82 /* LUNSegmentedControl-dummy.m */,
+				F5BC1C2814AF40A718C1E6FA3CEDB7B0 /* LUNSegmentedControl-prefix.pch */,
+			);
+			name = "Support Files";
+			path = "../Target Support Files/LUNSegmentedControl";
+			sourceTree = "<group>";
+		};
+		7DB346D0F39D3F0E887471402A8071AB = {
+			isa = PBXGroup;
+			children = (
+				93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */,
+				BC3CA7F9E30CC8F7E2DD044DD34432FC /* Frameworks */,
+				BF25723132624876DA120E0117ED4E6E /* Pods */,
+				B037B9375A1CFD15CD6D52E7E1A34EE4 /* Products */,
+				F06B0218A4F96D9DB1C985949F608D80 /* Targets Support Files */,
+			);
+			sourceTree = "<group>";
+		};
+		847BC518ADC3FDB9AA44A8C09A92B676 /* LUNSegmentedControl */ = {
+			isa = PBXGroup;
+			children = (
+				4DCC370ABCE6874CB289D03E7A7E4160 /* LUNGradientView.h */,
+				AEE857840EA4F1B8FAF5CD58B3EFB687 /* LUNGradientView.m */,
+				E2F6C7E6EF706B3C9161D208769BB3FD /* LUNSegmentedControl.h */,
+				85B24586E8575D6309071CE64D3CD588 /* LUNSegmentedControl.m */,
+				4FAE0CF964DF8A0A3FB592911968BAD2 /* UIView+LUNRemoveConstraints.h */,
+				D30AE86CF8D59E387143ADACFB61EA7E /* UIView+LUNRemoveConstraints.m */,
+				633C71104F01A5968F28171438C58B24 /* Support Files */,
+			);
+			name = LUNSegmentedControl;
+			path = LUNSegmentedControl;
+			sourceTree = "<group>";
+		};
+		9B8D2A6D20A9D1685D75A1B0D67DC371 /* Pods-Ti.LUNSegmentedControl */ = {
+			isa = PBXGroup;
+			children = (
+				97541420A69206923BF03DAFE90452D1 /* Pods-Ti.LUNSegmentedControl-acknowledgements.markdown */,
+				3686200C4E44745F7BCB1E3624DA2250 /* Pods-Ti.LUNSegmentedControl-acknowledgements.plist */,
+				0C3838A6F9852C757B11266867EA7559 /* Pods-Ti.LUNSegmentedControl-dummy.m */,
+				5AFE5614C8095840851566A9A2666574 /* Pods-Ti.LUNSegmentedControl-frameworks.sh */,
+				7DED3F5B882C64FFCC0D3C79641187BE /* Pods-Ti.LUNSegmentedControl-resources.sh */,
+				131D18FF5F5973184D5F617758EF4388 /* Pods-Ti.LUNSegmentedControl.debug.xcconfig */,
+				74871842BADFBCF715D5E01C84B28F22 /* Pods-Ti.LUNSegmentedControl.release.xcconfig */,
+			);
+			name = "Pods-Ti.LUNSegmentedControl";
+			path = "Target Support Files/Pods-Ti.LUNSegmentedControl";
+			sourceTree = "<group>";
+		};
+		B037B9375A1CFD15CD6D52E7E1A34EE4 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				6CAA52385B36B3D1A6C127FCA2FBE955 /* libLUNSegmentedControl.a */,
+				0C30E2C8F7AC64E6B19D28830481FC81 /* libPods-Ti.LUNSegmentedControl.a */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		BC3CA7F9E30CC8F7E2DD044DD34432FC /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				D35AF013A5F0BAD4F32504907A52519E /* iOS */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		BF25723132624876DA120E0117ED4E6E /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				847BC518ADC3FDB9AA44A8C09A92B676 /* LUNSegmentedControl */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
+		D35AF013A5F0BAD4F32504907A52519E /* iOS */ = {
+			isa = PBXGroup;
+			children = (
+				6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */,
+			);
+			name = iOS;
+			sourceTree = "<group>";
+		};
+		F06B0218A4F96D9DB1C985949F608D80 /* Targets Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				9B8D2A6D20A9D1685D75A1B0D67DC371 /* Pods-Ti.LUNSegmentedControl */,
+			);
+			name = "Targets Support Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXHeadersBuildPhase section */
+		64DF4467E47CD7F0B84636582F9046BE /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A9B12DE585CDE9DE7FADEAA163FEA7D8 /* LUNGradientView.h in Headers */,
+				BAABDBF279432B89C401E1367D9572A2 /* LUNSegmentedControl.h in Headers */,
+				1883734510BCB1BC80568813D5481C94 /* UIView+LUNRemoveConstraints.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXHeadersBuildPhase section */
+
+/* Begin PBXNativeTarget section */
+		63BC23277E64F926D38A9AD9C01F6F71 /* Pods-Ti.LUNSegmentedControl */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 8BF8E7EB0C95645EA04BB55B4769FA64 /* Build configuration list for PBXNativeTarget "Pods-Ti.LUNSegmentedControl" */;
+			buildPhases = (
+				989D2FDBF27DBB93F00FC2EF0621DD26 /* Sources */,
+				15D7039117183C67163F6774717CF8DC /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				D58F739E3D888797F8DB9E20F31D9268 /* PBXTargetDependency */,
+			);
+			name = "Pods-Ti.LUNSegmentedControl";
+			productName = "Pods-Ti.LUNSegmentedControl";
+			productReference = 0C30E2C8F7AC64E6B19D28830481FC81 /* libPods-Ti.LUNSegmentedControl.a */;
+			productType = "com.apple.product-type.library.static";
+		};
+		F86465360FAD19E91A242877566513C0 /* LUNSegmentedControl */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = D244522946E57A7D25C80A152B8DE06C /* Build configuration list for PBXNativeTarget "LUNSegmentedControl" */;
+			buildPhases = (
+				F24CECDA49495F33B73AFC71E8739F13 /* Sources */,
+				2791270D242224231896AE8281DF78AE /* Frameworks */,
+				64DF4467E47CD7F0B84636582F9046BE /* Headers */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = LUNSegmentedControl;
+			productName = LUNSegmentedControl;
+			productReference = 6CAA52385B36B3D1A6C127FCA2FBE955 /* libLUNSegmentedControl.a */;
+			productType = "com.apple.product-type.library.static";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		D41D8CD98F00B204E9800998ECF8427E /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0830;
+				LastUpgradeCheck = 0700;
+			};
+			buildConfigurationList = 2D8E8EC45A3A1A1D94AE762CB5028504 /* Build configuration list for PBXProject "Pods" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 7DB346D0F39D3F0E887471402A8071AB;
+			productRefGroup = B037B9375A1CFD15CD6D52E7E1A34EE4 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				F86465360FAD19E91A242877566513C0 /* LUNSegmentedControl */,
+				63BC23277E64F926D38A9AD9C01F6F71 /* Pods-Ti.LUNSegmentedControl */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		989D2FDBF27DBB93F00FC2EF0621DD26 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				187411BF5497D9B8797BDC5C1B7818D2 /* Pods-Ti.LUNSegmentedControl-dummy.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F24CECDA49495F33B73AFC71E8739F13 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				362A27CE9459C374D074A251C0F6AB53 /* LUNGradientView.m in Sources */,
+				6C34DD087E1897AF3C63F5BAFBA38C83 /* LUNSegmentedControl-dummy.m in Sources */,
+				973B6A4A80EBCA12ED32123FB54A1F3A /* LUNSegmentedControl.m in Sources */,
+				727D593ABA61A587D46D2AAFE194E5D5 /* UIView+LUNRemoveConstraints.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		D58F739E3D888797F8DB9E20F31D9268 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = LUNSegmentedControl;
+			target = F86465360FAD19E91A242877566513C0 /* LUNSegmentedControl */;
+			targetProxy = 17B26D76A93195DE716E6815D1077DFC /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		0C1130485ADBA00B27E11FBF63BDBD7C /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 74871842BADFBCF715D5E01C84B28F22 /* Pods-Ti.LUNSegmentedControl.release.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				MACH_O_TYPE = staticlib;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		12C4B864767C59600DBFA238F1E2F8BC /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGNING_REQUIRED = NO;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"POD_CONFIGURATION_RELEASE=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = NO_SIGNING/;
+				STRIP_INSTALLED_PRODUCT = NO;
+				SYMROOT = "${SRCROOT}/../build";
+			};
+			name = Release;
+		};
+		59F0302F2371FCC6B73EF0A418D40734 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGNING_REQUIRED = NO;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"POD_CONFIGURATION_DEBUG=1",
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = NO_SIGNING/;
+				STRIP_INSTALLED_PRODUCT = NO;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SYMROOT = "${SRCROOT}/../build";
+			};
+			name = Debug;
+		};
+		8C3C49A6A14BB727F6D55440064D8E07 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 595E3F554AEB05E2657449B0D2AC8B7B /* LUNSegmentedControl.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				GCC_PREFIX_HEADER = "Target Support Files/LUNSegmentedControl/LUNSegmentedControl-prefix.pch";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PRIVATE_HEADERS_FOLDER_PATH = "";
+				PUBLIC_HEADERS_FOLDER_PATH = "";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		E91FCB361E1FD07E5923598765A26BD3 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 595E3F554AEB05E2657449B0D2AC8B7B /* LUNSegmentedControl.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				GCC_PREFIX_HEADER = "Target Support Files/LUNSegmentedControl/LUNSegmentedControl-prefix.pch";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PRIVATE_HEADERS_FOLDER_PATH = "";
+				PUBLIC_HEADERS_FOLDER_PATH = "";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		E97057A82C0F72396C625650B5CDAC83 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 131D18FF5F5973184D5F617758EF4388 /* Pods-Ti.LUNSegmentedControl.debug.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				MACH_O_TYPE = staticlib;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		2D8E8EC45A3A1A1D94AE762CB5028504 /* Build configuration list for PBXProject "Pods" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				59F0302F2371FCC6B73EF0A418D40734 /* Debug */,
+				12C4B864767C59600DBFA238F1E2F8BC /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		8BF8E7EB0C95645EA04BB55B4769FA64 /* Build configuration list for PBXNativeTarget "Pods-Ti.LUNSegmentedControl" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				E97057A82C0F72396C625650B5CDAC83 /* Debug */,
+				0C1130485ADBA00B27E11FBF63BDBD7C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		D244522946E57A7D25C80A152B8DE06C /* Build configuration list for PBXNativeTarget "LUNSegmentedControl" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8C3C49A6A14BB727F6D55440064D8E07 /* Debug */,
+				E91FCB361E1FD07E5923598765A26BD3 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
+}
